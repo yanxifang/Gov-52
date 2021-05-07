@@ -3,7 +3,7 @@
 
 This is my final project for Gov 52 - Models (Spring 2021), in which I attempt to replicate an existing published journal article.
 
-I chose the article "Why Parties Displace Their Voters: Gentrification, Coalitional Change, and the Demise of Public Housing" by Winston Chou and Rafaela Dancygier, which will be published in Volume 115, Issue 2 of the *American Political Science Review* in May 2021 (the article was previously published online by Cambridge University Press on February 23, 2021). This GitHub repository contains most, but not all, of the data and code that I used for the project.
+I chose the article ["Why Parties Displace Their Voters: Gentrification, Coalitional Change, and the Demise of Public Housing"](https://www.cambridge.org/core/journals/american-political-science-review/article/why-parties-displace-their-voters-gentrification-coalitional-change-and-the-demise-of-public-housing/DD9C48C4382889F99204E2B9191BDB24) by Winston Chou and Rafaela Dancygier, which will be published in Volume 115, Issue 2 of the *American Political Science Review* in May 2021 (the article was previously published online by Cambridge University Press on February 23, 2021). This GitHub repository contains most, but not all, of the data and code that I used for the project.
 
 The main folder consists of several items: the readme (this file), the replication code (in R), the final replication report (code in R and output in PDF), and the BibTeX file for the bibliography. There is also a link to the "replication" folder, which is explained below.
 
