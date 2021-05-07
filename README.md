@@ -12,3 +12,25 @@ The "replication" folder is where the working directory should be set for both o
 There are also two R files in the "replication" folder; these are scripts written by Chou and Dancygier to convert the downloaded files from the UK Data Service into dataframes that are usable for the analysis. To accompany these two R files, I have provided an additional explanatory document, "Additional Info.md", to alleviate any confusion. Please note that the files from the UK Data Service are not suitable to be made public, although the Service provides data access to registered academic users at no charge. The instructions are also listed in the "Additiona Info.md" file in the "replication" folder.
 
 Finally, all of the dataframes (mostly .csv files) are located in the "data" subfolder, which can be found within the "replication" folder.
+
+This replication was completed using the following software versions:
+- R version 4.0.3 (2020-10-10) – “Bunny-Wunnies Freak Out”
+- Platform: x86_64-w64-mingw32/x64 (64-bit)
+- Running under: Windows 10 Home, version 20H2
+
+The following packages were used:
+- dplyr_1.0.3
+- forcats_0.5.1
+- ggplot2_3.3.3
+- gridExtra_2.3
+- multiwayvcov_1.2.3
+- plm_2.4-1
+- purrr_0.3.4
+- readr_1.4.0
+- stargazer_5.2.2
+- stringr_1.4.0
+- tibble_3.0.6
+- tidyr_1.1.2
+- tidyverse_1.3.0
+- xtable_1.8-4
+- zoo_1.8-8
