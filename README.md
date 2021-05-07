@@ -1,6 +1,5 @@
 # Gov 52: Models
-### Spring 2021
-### Yanxi Fang, Harvard University
+### Yanxi Fang, Harvard University, Spring 2021
 
 This is my final project for Gov 52 - Models (Spring 2021), in which I attempt to replicate an existing published journal article.
 
