@@ -11,3 +11,5 @@ The main folder consists of several items: the readme (this file), the replicati
 The "replication" folder is where the working directory should be set for both of the replication R codes (from the main folder). Consequently, this folder contains all of the saved outputs from the code, such as images and .tex tables. Within this folder, there should be a link to the "data" folder; since the working directory is set to the "replication" folder, all of the code already refers to the actual data as being in the "data" subfolder.
 
 There are also two R files in the "replication" folder; these are scripts written by Chou and Dancygier to convert the downloaded files from the UK Data Service into dataframes that are usable for the analysis. To accompany these two R files, I have provided an additional explanatory document, "Additional Info.md", to alleviate any confusion.
+
+Finally, all of the dataframes (mostly .csv files) are located in the "data" subfolder, which can be found within the "replication" folder.
